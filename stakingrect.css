@@ -1,0 +1,455 @@
+.sub {
+    padding-left: 24px;
+    padding-bottom: 0px;
+    padding-right: 24px;
+    padding-top: 24px;
+}
+
+.egGygq {
+    line-height: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    min-width: 280px;
+    width: 100%;
+    margin: 0 8px;
+    margin-bottom: 32px;
+    background: rgba(20, 37, 62, 0.8);
+    border-radius: 32px;
+    display: flex;
+    color: #EEF1EF;
+    box-shadow: 0px 2px 12px -8px rgba(25, 19, 38, 0.9), 0px 1px 1px rgba(25, 19, 38, 0.9);
+    flex-direction: column;
+    position: relative;
+    max-width: 350px;
+}
+
+.cBBLaq {
+    line-height: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.cyDToi {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #fcede2;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.1;
+    margin-bottom: 14px;
+}
+
+.bHgZVp {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 64px;
+    max-width: 64px;
+    max-height: 64px;
+    width: 100%;
+    padding-top: 0%;
+}
+
+.fZIdsC {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+}
+
+.ffdOxm {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.kWSBGL {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #fcede2;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.hpqRT {
+    line-height: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #EEF1EF;
+    font-size: 14px;
+}
+
+.dgVyxp {
+    line-height: 1;
+    color: #EEF1EF;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 16px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.kCrdhA {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    display: flex;
+    font-size: 14px;
+}
+
+.RuyRG {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border-top: 1px solid #524B63;
+    padding-left: 24px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+    padding-top: 0px;
+}
+
+.ijgBwU {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    color: #EEF1EF;
+    cursor: pointer;
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: 600;
+    height: 32px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: 0;
+    padding: 0;
+}
+
+.eHvTDy {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    flex: 1;
+}
+
+.bHVTnw {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    vertical-align: baseline;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: transparent;
+    border: 2px solid #EDDDD4;
+    border-radius: 16px;
+    color: #EDDDD4;
+    display: inline-flex;
+    font-size: 14px;
+    font-weight: 400;
+    height: 28px;
+    line-height: 1.5;
+    padding: 0 8px;
+    white-space: nowrap;
+}
+
+.cmEDAl {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.dXwtBG {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #EDDDD4;
+    border: 0;
+    border-radius: 16px;
+    box-shadow: inset 0px -1px 0px rgba(14, 14, 44, 0.4);
+    color: #283D3B;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    width: max-content;
+    height: 48px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: 0;
+    padding: 0 24px;
+    transition: background-color 0.2s;
+    opacity: 1;
+}
+
+.eMlDwY {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    height: 24px;
+    width: 24px;
+}
+
+.kkgLal {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: #EDDDD4;
+    border: 0;
+    border-radius: 16px;
+    box-shadow: inset 0px -1px 0px rgba(14, 14, 44, 0.4);
+    color: #283D3B;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: inherit;
+    font-size: 16px;
+    font-weight: 600;
+    height: 48px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: 0;
+    transition: background-color 0.2s;
+    opacity: 1;
+    padding: 0;
+    width: 48px;
+}
+
+.jQXWXj {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(20, 37, 62, 0.8);
+    border-radius: 12px;
+    color: #32cad7;
+    cursor: pointer;
+    display: flex;
+    font-weight: 700;
+    -webkit-box-pack: center;
+    justify-content: center;
+    outline: none;
+    border: 2px solid #33cbd7;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    padding: 0px;
+}
+
+.kWSBGL {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #fcede2;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.drCsKk {
+    color: #EDDDD4;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    white-space: nowrap;
+    width: 20px;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    flex-shrink: 0;
+    margin-right: 0.5rem;
+    fill: #EDDDD4;
+}
+
+.cZBgIS {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin-top: 24px;
+}
+
+.eJWuFJ {
+    line-height: 1;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-size: 14px;
+    text-decoration: none;
+    color: #12aab5;
+}
+
+.kWSBGL {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #fcede2;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.kWSBGLz {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    color: #fcede2;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.iJepmN {
+    line-height: 1;
+    color: #EEF1EF;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-size: 14px;
+}
